@@ -8,7 +8,7 @@ Code Review
     - variabila valoare trebuie redenumita
     - numele pachetului nu este ok
 
-    -elimina valorile predefinite din functie
+    - elimina valorile predefinite din functie
 
     - datele de intrare NU sunt validate
 
@@ -16,3 +16,9 @@ Code Review
 2. Single Responsability and KISS pentru functii
     - metoda calculeaza prea multe valori intermediare
     - se repeta o parte din prelucrari
+
+
+3. SOLID
+    - eliminare switch prin tratarea primului caz (NEW) in mod generic
+    - eliminare dependente legate de validarea datelor si prelucrarea discount-ului
+
