@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/HelloWorld/HelloWorld.iml" filepath="$PROJECT_DIR$/HelloWorld/HelloWorld.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Laborator2/Laborator2.iml" filepath="$PROJECT_DIR$/Laborator2/Laborator2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Laborator3/Laborator3.iml" filepath="$PROJECT_DIR$/Laborator3/Laborator3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Laborator5 - Singleton si Prototype/Laborator5 - Singleton si Prototype.iml" filepath="$PROJECT_DIR$/Laborator5 - Singleton si Prototype/Laborator5 - Singleton si Prototype.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Laborator6 - Builder si Factory/Laborator6 - Builder si Factory.iml" filepath="$PROJECT_DIR$/Laborator6 - Builder si Factory/Laborator6 - Builder si Factory.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/cts_10888.iml" filepath="$PROJECT_DIR$/.idea/cts_10888.iml" />
+    </modules>
+  </component>
+</project>
